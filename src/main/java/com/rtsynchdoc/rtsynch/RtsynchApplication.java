@@ -1,13 +1,13 @@
-package com.rtsynchdoc.rtsynchdoc;
+package com.rtsynchdoc.rtsynch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RtsynchdocApplication {
+public class RtsynchApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RtsynchdocApplication.class, args);
+		SpringApplication.run(RtsynchApplication.class, args);
 	}
 
 }
